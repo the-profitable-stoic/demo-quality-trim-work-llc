@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-quality-trim-work-llc.dream-surge.com/sitemap-index.xml

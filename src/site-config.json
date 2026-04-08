@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Quality Trim Work LLC",
+    "phone": "+16023846835",
+    "category": "carpenter",
+    "city": "Phoenix",
+    "state": "AZ"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Phoenix's Finest Carpenter",
+      "heroSubline": "Precision carpentry for lasting quality. Serving Phoenix, Scottsdale, and beyond with expert trim work and more.",
+      "aboutTitle": "Crafting Excellence in Phoenix Carpentry",
+      "aboutText": [
+        "Quality Trim Work LLC started with a simple vision: to bring unparalleled craftsmanship and attention to detail to every project in the Phoenix area. Founded by seasoned carpenter, [Founder Name], we've built our reputation on exceeding expectations.",
+        "Our approach is straightforward: understand your vision, provide expert guidance, and execute with precision. We value clear communication, meticulous planning, and a commitment to using the best materials for the Arizona climate.",
+        "We're proud to be a part of the Phoenix community. We source local materials whenever possible and actively support local initiatives. When you choose Quality Trim Work LLC, you're choosing a partner invested in the Valley."
+      ],
+      "valueProps": [
+        {
+          "title": "Unmatched Craftsmanship",
+          "description": "Decades of experience delivering superior carpentry results."
+        },
+        {
+          "title": "Arizona Expertise",
+          "description": "We understand the unique challenges of the desert climate and build accordingly."
+        },
+        {
+          "title": "Detailed Planning",
+          "description": "From concept to completion, we meticulously plan every stage of the project."
+        },
+        {
+          "title": "Lasting Quality",
+          "description": "Using premium materials and proven techniques for enduring beauty and function."
+        }
+      ],
+      "ctaHeadline": "Start Your Project Today",
+      "ctaSubline": "Get a free consultation and estimate. Let's bring your vision to life with expert carpentry."
+    },
+    "services": [
+      {
+        "slug": "custom-trim-work",
+        "name": "Custom Trim Work",
+        "shortDescription": "Elevate your Phoenix home with expertly crafted trim and molding.",
+        "description": "Quality Trim Work LLC specializes in custom trim and molding solutions that add character and value to your home. Whether you're looking to enhance your baseboards, crown molding, door casings, or window trim, we deliver exceptional results tailored to your specific style and architectural design. We understand the Southwestern aesthetic prevalent in Phoenix homes and can create trim work that complements your existing décor, from classic to contemporary. \n\nOur process begins with a detailed consultation to understand your vision and preferences. We then carefully select the appropriate materials, considering factors such as durability, aesthetics, and resistance to the Arizona climate. Our skilled carpenters meticulously install each piece of trim, ensuring seamless joints, precise angles, and a flawless finish. We use only the highest quality paints and stains to protect your trim and enhance its natural beauty. We pay close attention to detail, ensuring that every aspect of the trim work is executed to perfection. \n\nWith Quality Trim Work LLC, you can transform your home into a showcase of elegant craftsmanship and enduring beauty. We handle homes from Arcadia to Desert Ridge, understanding the nuances of each neighborhood.",
+        "process": [
+          "Step 1: Consultation and design discussion",
+          "Step 2: Material selection and planning",
+          "Step 3: Precise cutting and fitting of trim",
+          "Step 4: Expert installation and finishing"
+        ],
+        "benefits": [
+          "Enhanced aesthetic appeal",
+          "Increased home value",
+          "Customized design options",
+          "Protection against wear and tear"
+        ],
+        "faq": [
+          {
+            "question": "What types of wood do you use for trim work?",
+            "answer": "We use a variety of woods, including pine, poplar, oak, and MDF, depending on the desired look, budget, and application. We will discuss the best options for your project during the consultation."
+          },
+          {
+            "question": "Can you match existing trim in my home?",
+            "answer": "Yes, we are skilled at matching existing trim profiles and finishes to ensure a seamless and cohesive look throughout your home."
+          },
+          {
+            "question": "How long does it take to install custom trim?",
+            "answer": "The timeline depends on the scope of the project, but we provide a detailed estimate and schedule during the consultation. We strive to complete projects efficiently while maintaining the highest quality standards."
+          }
+        ]
+      },
+      {
+        "slug": "door-installation-repair",
+        "name": "Door Installation & Repair",
+        "shortDescription": "Secure and stylish doors expertly installed and repaired throughout Phoenix.",
+        "description": "From entry doors that make a statement to interior doors that provide privacy and functionality, Quality Trim Work LLC offers comprehensive door installation and repair services. We understand the importance of durable, weather-resistant doors in the Phoenix climate, where extreme heat and monsoon storms can take a toll. We install a wide range of door styles, including wood, fiberglass, steel, and composite doors, and can help you choose the best option for your needs and budget. \n\nOur installation process is meticulous, ensuring proper alignment, secure hardware, and a weathertight seal. We also offer door repair services, including fixing squeaky hinges, replacing damaged frames, and repairing or replacing locks and handles. We handle common problems like door swelling due to monsoon moisture, common in Phoenix.\n\nWhether you're building a new home, renovating an existing one, or simply need to repair a damaged door, Quality Trim Work LLC provides reliable and professional service. We work with homes across Phoenix, from Laveen to Biltmore, understanding the unique architectural styles and challenges of each neighborhood.",
+        "process": [
+          "Step 1: Door selection and measurement",
+          "Step 2: Precise installation and alignment",
+          "Step 3: Hardware installation and testing",
+          "Step 4: Weatherproofing and finishing"
+        ],
+        "benefits": [
+          "Improved security and energy efficiency",
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Protection from the elements"
+        ],
+        "faq": [
+          {
+            "question": "What types of doors do you install?",
+            "answer": "We install a wide variety of doors, including entry doors, interior doors, sliding doors, and French doors. We can also install custom-made doors to your specifications."
+          },
+          {
+            "question": "How long does it take to install a new door?",
+            "answer": "The installation time depends on the type of door and the complexity of the project, but we typically complete most door installations in one day."
+          },
+          {
+            "question": "Do you offer a warranty on your door installations?",
+            "answer": "Yes, we offer a warranty on all of our door installations to ensure your satisfaction and peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "baseboard-installation",
+        "name": "Baseboard Installation",
+        "shortDescription": "Upgrade your floors with professionally installed baseboards by our Phoenix team.",
+        "description": "Quality Trim Work LLC provides expert baseboard installation services to enhance the look and feel of your Phoenix home. Baseboards add a finishing touch to any room, concealing imperfections where the wall meets the floor and adding a touch of elegance and sophistication. We offer a wide range of baseboard styles and materials, including wood, MDF, and vinyl, to complement your existing décor. \n\nOur installation process is precise and efficient, ensuring seamless joints, perfect alignment, and a smooth, professional finish. We pay close attention to detail, ensuring that every baseboard is properly secured and painted or stained to match your existing trim. We understand the importance of moisture-resistant materials in the Phoenix climate, especially in areas prone to flooding or water damage. We address common issues like uneven floors and walls, common in older Phoenix homes.\n\nWhether you're renovating your entire home or simply want to upgrade your baseboards, Quality Trim Work LLC delivers exceptional results and unparalleled customer service. We work with homes across Phoenix, understanding the unique architectural styles and challenges of each neighborhood.",
+        "process": [
+          "Step 1: Material selection and measurement",
+          "Step 2: Precise cutting and fitting of baseboards",
+          "Step 3: Secure installation and caulking",
+          "Step 4: Painting or staining to match existing trim"
+        ],
+        "benefits": [
+          "Enhanced aesthetic appeal",
+          "Concealed imperfections",
+          "Protection against wear and tear",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "What types of baseboards do you offer?",
+            "answer": "We offer a wide range of baseboard styles and materials, including wood, MDF, and vinyl. We can also install custom-made baseboards to your specifications."
+          },
+          {
+            "question": "How much does it cost to install baseboards?",
+            "answer": "The cost of baseboard installation depends on the size of the room, the type of baseboard, and the complexity of the project. We provide free estimates and detailed quotes."
+          },
+          {
+            "question": "Do you offer painting or staining services for baseboards?",
+            "answer": "Yes, we offer painting and staining services to match your existing trim or create a custom look. We use only high-quality paints and stains for a durable and long-lasting finish."
+          }
+        ]
+      },
+      {
+        "slug": "crown-molding",
+        "name": "Crown Molding Installation",
+        "shortDescription": "Add elegance to your Phoenix home with professionally installed crown molding.",
+        "description": "Elevate the style of any room with expertly installed crown molding from Quality Trim Work LLC. Crown molding adds a touch of sophistication and grandeur, enhancing the overall aesthetic appeal of your Phoenix home. We offer a wide selection of crown molding styles and materials, including wood, MDF, and plaster, to complement your existing décor. \n\nOur skilled carpenters meticulously install each piece of crown molding, ensuring seamless joints, precise angles, and a flawless finish. We pay close attention to detail, ensuring that the crown molding is properly secured and painted or stained to match your existing trim. We are experienced in working with the vaulted ceilings common in many Phoenix homes.\n\nWhether you're renovating your entire home or simply want to add a touch of elegance to a single room, Quality Trim Work LLC delivers exceptional results and unparalleled customer service. We work with homes across Phoenix, understanding the unique architectural styles and challenges of each neighborhood.",
+        "process": [
+          "Step 1: Style selection and measurement",
+          "Step 2: Precise cutting and fitting of crown molding",
+          "Step 3: Secure installation and caulking",
+          "Step 4: Painting or staining to match existing trim"
+        ],
+        "benefits": [
+          "Enhanced aesthetic appeal",
+          "Increased home value",
+          "Added sophistication",
+          "Concealed imperfections"
+        ],
+        "faq": [
+          {
+            "question": "What types of crown molding do you offer?",
+            "answer": "We offer a wide range of crown molding styles and materials, including wood, MDF, and plaster. We can also install custom-made crown molding to your specifications."
+          },
+          {
+            "question": "How much does it cost to install crown molding?",
+            "answer": "The cost of crown molding installation depends on the size of the room, the type of crown molding, and the complexity of the project. We provide free estimates and detailed quotes."
+          },
+          {
+            "question": "Can you paint or stain the crown molding to match my existing trim?",
+            "answer": "Yes, we offer painting and staining services to match your existing trim or create a custom look. We use only high-quality paints and stains for a durable and long-lasting finish."
+          }
+        ]
+      },
+      {
+        "slug": "custom-shelving",
+        "name": "Custom Shelving & Built-Ins",
+        "shortDescription": "Maximize space and style with custom shelving and built-ins.",
+        "description": "Quality Trim Work LLC designs and builds custom shelving and built-in solutions to maximize space and enhance the functionality of your Phoenix home. Whether you need a custom bookshelf for your living room, a built-in entertainment center for your family room, or custom closet organizers for your bedrooms, we can create solutions tailored to your specific needs and style. \n\nWe work with a variety of materials, including wood, MDF, and laminate, to create durable and aesthetically pleasing shelving and built-ins. Our skilled carpenters meticulously construct each piece, ensuring precise measurements, secure connections, and a flawless finish. We can accommodate unique spaces and challenging layouts, common in older Phoenix homes. \n\nFrom initial design to final installation, Quality Trim Work LLC provides exceptional craftsmanship and unparalleled customer service. We work with homes across Phoenix, understanding the unique architectural styles and challenges of each neighborhood.",
+        "process": [
+          "Step 1: Design consultation and space assessment",
+          "Step 2: Material selection and blueprint creation",
+          "Step 3: Precise construction and assembly",
+          "Step 4: Professional installation and finishing"
+        ],
+        "benefits": [
+          "Maximized storage space",
+          "Enhanced organization",
+          "Customized design options",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "What types of materials do you use for custom shelving?",
+            "answer": "We use a variety of materials, including wood, MDF, and laminate, depending on the desired look, budget, and application. We will discuss the best options for your project during the consultation."
+          },
+          {
+            "question": "Can you design custom shelving to fit an awkward space?",
+            "answer": "Yes, we specialize in designing custom shelving and built-ins to fit any space, no matter how awkward or challenging the layout."
+          },
+          {
+            "question": "Do you offer installation services for custom shelving?",
+            "answer": "Yes, we provide professional installation services for all of our custom shelving and built-in projects."
+          }
+        ]
+      },
+      {
+        "slug": "staircase-remodel",
+        "name": "Staircase Remodeling",
+        "shortDescription": "Transform your staircase with our expert remodeling services.",
+        "description": "Quality Trim Work LLC provides comprehensive staircase remodeling services to enhance the beauty and safety of your Phoenix home. Whether you're looking to replace your existing staircase with a new design, update the railings and balusters, or simply refinish the treads and risers, we can transform your staircase into a stunning focal point. We understand the importance of safety and durability in staircase construction, especially in homes with children or elderly residents. \n\nWe work with a variety of materials, including wood, metal, and glass, to create custom staircase designs that complement your home's architectural style. Our skilled carpenters meticulously construct each component, ensuring precise measurements, secure connections, and a flawless finish. We handle common issues in older Phoenix homes, like settling and uneven steps.\n\nFrom initial design to final installation, Quality Trim Work LLC provides exceptional craftsmanship and unparalleled customer service. We work with homes across Phoenix, understanding the unique architectural styles and challenges of each neighborhood.",
+        "process": [
+          "Step 1: Design consultation and safety assessment",
+          "Step 2: Material selection and blueprint creation",
+          "Step 3: Precise construction and assembly",
+          "Step 4: Professional installation and finishing"
+        ],
+        "benefits": [
+          "Enhanced aesthetic appeal",
+          "Improved safety and functionality",
+          "Increased home value",
+          "Customized design options"
+        ],
+        "faq": [
+          {
+            "question": "What types of staircase remodeling services do you offer?",
+            "answer": "We offer a wide range of staircase remodeling services, including replacing existing staircases, updating railings and balusters, and refinishing treads and risers."
+          },
+          {
+            "question": "Can you design a custom staircase to fit my specific space?",
+            "answer": "Yes, we specialize in designing custom staircases to fit any space, no matter how challenging the layout."
+          },
+          {
+            "question": "Do you offer a warranty on your staircase remodeling projects?",
+            "answer": "Yes, we offer a warranty on all of our staircase remodeling projects to ensure your satisfaction and peace of mind."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Scottsdale",
+        "slug": "scottsdale-az",
+        "state": "AZ",
+        "content": "Quality Trim Work LLC is proud to offer expert carpentry services to Scottsdale, Arizona. Known for its luxury Southwestern estates and discerning clientele, Scottsdale demands the highest quality craftsmanship. We understand the unique architectural styles prevalent in Scottsdale, from Spanish Colonial to contemporary desert modern, and we tailor our trim work to complement these designs seamlessly. Whether you're building a new custom home or renovating an existing property, our team delivers exceptional results that enhance the beauty and value of your Scottsdale residence.\n\nScottsdale's extreme summer heat requires careful consideration of materials and installation techniques. We use only the finest materials that are resistant to warping, cracking, and fading under the intense Arizona sun. Our skilled carpenters employ proven methods to ensure that your trim work stands the test of time, even in the harshest conditions. From crown molding to baseboards to custom cabinetry, we provide comprehensive carpentry solutions for all your needs.",
+        "localContext": "Scottsdale is characterized by its luxury homes, high-end shopping, and resort destinations, attracting residents who appreciate quality and attention to detail.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Paradise Valley",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Mesa",
+        "slug": "mesa-az",
+        "state": "AZ",
+        "content": "Quality Trim Work LLC is dedicated to providing top-notch carpentry services in Mesa, Arizona. With its abundance of 1970s and 80s stucco homes, Mesa presents unique opportunities for trim work upgrades and renovations. We specialize in enhancing the character of these homes with modern trim designs that complement their existing architecture. Whether you're looking to update your baseboards, install new crown molding, or create custom built-ins, our team has the expertise to bring your vision to life.\n\nMesa's extreme summer heat requires durable and weather-resistant trim materials. We use only the highest quality products that can withstand the harsh Arizona climate. Our experienced carpenters are skilled in proper installation techniques that prevent warping, cracking, and fading. We take pride in delivering exceptional results that enhance the beauty and value of your Mesa home.",
+        "localContext": "Mesa features a mix of older and newer homes, with a significant portion built in the 1970s and 1980s, often featuring stucco exteriors.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Chandler",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Chandler",
+        "slug": "chandler-az",
+        "state": "AZ",
+        "content": "Quality Trim Work LLC is pleased to offer professional carpentry services in Chandler, Arizona. Known for its well-planned communities and family-friendly atmosphere, Chandler features a variety of homes built in the 1990s and 2000s. We specialize in providing trim work solutions that enhance the beauty and functionality of these homes. Whether you're looking to upgrade your baseboards, install new crown molding, or create custom cabinetry, our team has the expertise to meet your needs.\n\nChandler's extreme summer heat requires careful consideration of materials and installation techniques. We use only the highest quality products that are resistant to warping, cracking, and fading under the intense Arizona sun. Our skilled carpenters employ proven methods to ensure that your trim work stands the test of time, even in the harshest conditions. We offer a wide range of carpentry services, including trim installation, custom cabinetry, and door and window installation.",
+        "localContext": "Chandler is known for its master-planned communities and family-oriented lifestyle, with many homes built in the late 1990s and early 2000s.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Mesa",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Gilbert",
+        "slug": "gilbert-az",
+        "state": "AZ",
+        "content": "Quality Trim Work LLC is proud to serve the growing community of Gilbert, Arizona. With its focus on newer construction from the 2000s to the present, Gilbert offers opportunities for modern trim work and design. We specialize in providing carpentry solutions that complement the contemporary aesthetic of these homes. Whether you're looking to add a touch of elegance with crown molding, create custom storage solutions with built-in shelves, or enhance your home's curb appeal with new trim around your doors and windows, our team is here to help.\n\nGilbert's extreme summer heat requires careful consideration of materials and installation techniques. We use only the highest quality products that are resistant to warping, cracking, and fading under the intense Arizona sun. Our skilled carpenters employ proven methods to ensure that your trim work stands the test of time, even in the harshest conditions. We are committed to providing exceptional craftsmanship and customer service.",
+        "localContext": "Gilbert is characterized by its newer homes and master-planned communities, reflecting modern architectural styles and design preferences.",
+        "nearbyAreas": [
+          "Chandler",
+          "Mesa",
+          "Queen Creek"
+        ]
+      },
+      {
+        "city": "Tempe",
+        "slug": "tempe-az",
+        "state": "AZ",
+        "content": "Quality Trim Work LLC is committed to providing exceptional carpentry services to the vibrant community of Tempe, Arizona. Home to Arizona State University, Tempe features a diverse mix of housing options, from historic homes to modern apartments. We understand the unique challenges and opportunities presented by Tempe's varied architecture. Whether you're renovating a classic bungalow near ASU or updating a contemporary condo, our team has the expertise to deliver outstanding results.\n\nTempe's extreme summer heat requires careful consideration of materials and installation techniques. We use only the highest quality products that are resistant to warping, cracking, and fading under the intense Arizona sun. Our skilled carpenters employ proven methods to ensure that your trim work stands the test of time, even in the harshest conditions. From custom bookshelves to updated baseboards, we offer a wide range of carpentry services tailored to your specific needs.",
+        "localContext": "Tempe is a dynamic city with a large student population and a mix of older and newer homes, many located near Arizona State University.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Scottsdale",
+          "Mesa"
+        ]
+      },
+      {
+        "city": "Phoenix",
+        "slug": "phoenix-az",
+        "state": "AZ",
+        "content": "Quality Trim Work LLC proudly serves the entire Phoenix metropolitan area, providing expert carpentry services to homeowners and businesses alike. As the largest city in Arizona, Phoenix presents a diverse range of architectural styles and project types. From historic bungalows in downtown Phoenix to modern homes in the suburbs, we have the experience and expertise to handle any carpentry project, big or small. Our team is dedicated to delivering exceptional craftsmanship and customer service, ensuring that your vision becomes a reality.\n\nPhoenix's extreme summer heat requires careful consideration of materials and installation techniques. We use only the highest quality products that are resistant to warping, cracking, and fading under the intense Arizona sun. Our skilled carpenters employ proven methods to ensure that your trim work stands the test of time, even in the harshest conditions. Whether you need trim installation, custom cabinetry, or door and window installation, we are here to help.",
+        "localContext": "Phoenix is a large, diverse city with a wide range of architectural styles, from historic homes to modern developments.",
+        "nearbyAreas": [
+          "Scottsdale",
+          "Tempe",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Paradise Valley",
+        "slug": "paradise-valley-az",
+        "state": "AZ",
+        "content": "Quality Trim Work LLC extends its premier carpentry services to Paradise Valley, Arizona, a town renowned for its luxury estates and custom homes. We understand the sophisticated tastes and high expectations of Paradise Valley residents, and we are committed to delivering exceptional craftsmanship that exceeds those expectations. Our team specializes in creating custom trim work solutions that enhance the beauty and value of your property, from intricate crown molding to bespoke cabinetry. We work closely with homeowners and designers to bring their visions to life, ensuring that every detail is perfect.\n\nParadise Valley's climate demands the use of durable and weather-resistant materials. We source only the finest materials that can withstand the harsh Arizona sun and temperature fluctuations. Our experienced carpenters employ proven techniques to ensure that your trim work remains beautiful and functional for years to come. We are dedicated to providing unparalleled service and quality to the discerning residents of Paradise Valley.",
+        "localContext": "Paradise Valley is an affluent town known for its large, luxurious homes and stunning desert landscapes.",
+        "nearbyAreas": [
+          "Scottsdale",
+          "Phoenix",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Goodyear",
+        "slug": "goodyear-az",
+        "state": "AZ",
+        "content": "Quality Trim Work LLC is dedicated to providing expert carpentry services to the growing community of Goodyear, Arizona. Goodyear features a mix of established neighborhoods and new developments, offering a variety of opportunities for trim work upgrades and renovations. We specialize in enhancing the character of these homes with modern trim designs that complement their existing architecture. Whether you're looking to update your baseboards, install new crown molding, or create custom built-ins, our team has the expertise to bring your vision to life.\n\nGoodyear's extreme summer heat requires durable and weather-resistant trim materials. We use only the highest quality products that can withstand the harsh Arizona climate. Our experienced carpenters are skilled in proper installation techniques that prevent warping, cracking, and fading. We take pride in delivering exceptional results that enhance the beauty and value of your Goodyear home.",
+        "localContext": "Goodyear is a rapidly growing city with a mix of residential and commercial development, attracting families and businesses alike.",
+        "nearbyAreas": [
+          "Avondale",
+          "Litchfield Park",
+          "Phoenix"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Custom Trim Work",
+        "text": "Quality Trim Work transformed my living room! The new crown molding is absolutely stunning, and the attention to detail is incredible. They were professional, on time, and cleaned up everything perfectly. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Door Installation",
+        "text": "Needed a new front door after the monsoon season warped the old one. Quality Trim Work was quick to respond, gave a fair price, and installed the new door perfectly. Minor issue with the paint color, but they fixed it immediately.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Baseboard Installation",
+        "text": "We had Quality Trim Work install new baseboards throughout our entire house. The team was efficient, respectful, and the finished product looks fantastic. It really updated the whole look of our home!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Custom Shelving",
+        "text": "I needed custom shelving built in my home office, and Quality Trim Work exceeded my expectations. The shelves are sturdy, beautiful, and perfectly tailored to my needs. Great communication throughout the entire process.",
+        "date": "2024-10-25"
+      },
+      {
+        "name": "Sarah M.",
+        "rating": 4,
+        "service": "Crown Molding",
+        "text": "We hired Quality Trim Work to install crown molding in our dining room. The team was professional and did a great job. There was one small section where the molding wasn't perfectly aligned, but they came back and fixed it promptly. Overall, very happy with the results.",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Door Repair",
+        "text": "My interior door wouldn't close properly. Quality Trim Work fixed it within an hour! Fast, professional, and affordable. I highly recommend them for any door repair needs.",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Quality Trim Work LLC - Phoenix Carpenter",
+        "description": "Expert carpentry services in Phoenix, AZ. Custom trim, door installation, baseboards, crown molding & more. Quality craftsmanship guaranteed!"
+      },
+      "about": {
+        "title": "About Quality Trim Work LLC - Phoenix, AZ",
+        "description": "Learn about Quality Trim Work LLC, your trusted Phoenix carpenter. Decades of experience, commitment to quality, and local expertise."
+      },
+      "services": {
+        "title": "Carpentry Services - Phoenix, AZ | Quality Trim Work",
+        "description": "Comprehensive carpentry services in Phoenix. Custom trim, door installation & repair, baseboards, crown molding, shelving, and staircase remodeling."
+      },
+      "contact": {
+        "title": "Contact Quality Trim Work LLC - Phoenix, AZ",
+        "description": "Contact Quality Trim Work LLC for a free consultation and estimate. Serving Phoenix, Scottsdale, Mesa, Chandler, Gilbert, and Tempe."
+      },
+      "reviews": {
+        "title": "Quality Trim Work LLC Reviews - Phoenix, AZ",
+        "description": "Read reviews from satisfied Quality Trim Work LLC customers in Phoenix, AZ. See why we're the preferred carpenter in the Valley."
+      },
+      "service-areas": {
+        "title": "Service Areas | Quality Trim Work LLC - Phoenix, AZ",
+        "description": "Quality Trim Work LLC provides carpentry services in Phoenix, Scottsdale, Mesa, Chandler, Gilbert, and Tempe. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-trim-work": "/images/service-custom-trim-work.webp",
+      "door-installation-repair": "/images/service-door-installation-repair.webp",
+      "baseboard-installation": "/images/service-baseboard-installation.webp",
+      "crown-molding": "/images/service-crown-molding.webp",
+      "custom-shelving": "/images/service-custom-shelving.webp",
+      "staircase-remodel": "/images/service-staircase-remodel.webp"
+    },
+    "servicesResponsive": {
+      "custom-trim-work": {
+        "src": "/images/service-custom-trim-work.webp",
+        "srcset": "/images/service-custom-trim-work-400w.webp 400w, /images/service-custom-trim-work-800w.webp 800w, /images/service-custom-trim-work-1200w.webp 1200w, /images/service-custom-trim-work.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-installation-repair": {
+        "src": "/images/service-door-installation-repair.webp",
+        "srcset": "/images/service-door-installation-repair-400w.webp 400w, /images/service-door-installation-repair-800w.webp 800w, /images/service-door-installation-repair-1200w.webp 1200w, /images/service-door-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "baseboard-installation": {
+        "src": "/images/service-baseboard-installation.webp",
+        "srcset": "/images/service-baseboard-installation-400w.webp 400w, /images/service-baseboard-installation-800w.webp 800w, /images/service-baseboard-installation-1200w.webp 1200w, /images/service-baseboard-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "crown-molding": {
+        "src": "/images/service-crown-molding.webp",
+        "srcset": "/images/service-crown-molding-400w.webp 400w, /images/service-crown-molding-800w.webp 800w, /images/service-crown-molding-1200w.webp 1200w, /images/service-crown-molding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-shelving": {
+        "src": "/images/service-custom-shelving.webp",
+        "srcset": "/images/service-custom-shelving-400w.webp 400w, /images/service-custom-shelving-800w.webp 800w, /images/service-custom-shelving-1200w.webp 1200w, /images/service-custom-shelving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "staircase-remodel": {
+        "src": "/images/service-staircase-remodel.webp",
+        "srcset": "/images/service-staircase-remodel-400w.webp 400w, /images/service-staircase-remodel-800w.webp 800w, /images/service-staircase-remodel-1200w.webp 1200w, /images/service-staircase-remodel.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
